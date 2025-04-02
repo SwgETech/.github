@@ -1,12 +1,12 @@
 # 🏢 Bienvenido a la Organización [SwgETech]
 
-¡Hola! Bienvenidos a la organización de **[SwgETech]** en GitHub. Aquí colaboramos en una variedad de proyectos y trabajamos para crear soluciones innovadoras. Este documento proporciona una guía rápida sobre cómo interactuar con los proyectos y colaborar dentro de nuestra organización.
+¡Hola! Bienvenidos a la organización de **SwgETech** en GitHub. Aquí colaboramos en una variedad de proyectos y trabajamos para crear soluciones innovadoras. Este documento proporciona una guía rápida sobre cómo interactuar con los proyectos y colaborar dentro de nuestra organización.
 
 ---
 
 ## 🚀 Sobre Nosotros
 
-**[SwgETech]** se dedica a [explicar el objetivo de la organización]. Nuestros proyectos están enfocados en [desarrollar tecnologías, resolver problemas específicos, etc.]. Somos un grupo de colaboradores apasionados por [Java,Angular,Python,TypeScritp, AWS,].
+**SwgETech** se dedica a [explicar el objetivo de la organización]. Nuestros proyectos están enfocados en [desarrollar tecnologías, resolver problemas específicos, etc.]. Somos un grupo de colaboradores apasionados por [Java,Angular,Python,TypeScritp, AWS,].
 
 ---
 
