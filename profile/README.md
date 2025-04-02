@@ -1,12 +1,12 @@
-# 🏢 Bienvenido a la Organización [Nombre de la Organización]
+# 🏢 Bienvenido a la Organización [SwgETech]
 
-¡Hola! Bienvenidos a la organización de **[Nombre de la Organización]** en GitHub. Aquí colaboramos en una variedad de proyectos y trabajamos para crear soluciones innovadoras. Este documento proporciona una guía rápida sobre cómo interactuar con los proyectos y colaborar dentro de nuestra organización.
+¡Hola! Bienvenidos a la organización de **[SwgETech]** en GitHub. Aquí colaboramos en una variedad de proyectos y trabajamos para crear soluciones innovadoras. Este documento proporciona una guía rápida sobre cómo interactuar con los proyectos y colaborar dentro de nuestra organización.
 
 ---
 
 ## 🚀 Sobre Nosotros
 
-**[Nombre de la Organización]** se dedica a [explicar el objetivo de la organización]. Nuestros proyectos están enfocados en [desarrollar tecnologías, resolver problemas específicos, etc.]. Somos un grupo de colaboradores apasionados por [breve descripción del tipo de trabajo que se realiza en la organización].
+**[SwgETech]** se dedica a [explicar el objetivo de la organización]. Nuestros proyectos están enfocados en [desarrollar tecnologías, resolver problemas específicos, etc.]. Somos un grupo de colaboradores apasionados por [Java,Angular,Python,TypeScritp, AWS,].
 
 ---
 
@@ -24,11 +24,15 @@ Nos encantaría que contribuiras a nuestros proyectos. Para mantener la calidad 
 
 ## 🛠 Herramientas y Tecnologías Comunes
 
-En **[Nombre de la Organización]**, usamos las siguientes herramientas y tecnologías en muchos de nuestros proyectos:
+En **[SwgETech]**, usamos las siguientes herramientas y tecnologías en muchos de nuestros proyectos:
 
-- **[Tecnología 1]**: Descripción
-- **[Tecnología 2]**: Descripción
-- **[Tecnología 3]**: Descripción
+- **[Spring]**: Descripción
+- **[Angular]**: Descripción
+- **[AWS]**: Descripción
+- **[SQL]**: Descripción
+- **[Docker]**: Descripción
+- **[SonarQube]**: Descripción
+- **[Phyton]**: Descripción
 
 ---
 
@@ -42,7 +46,7 @@ En **[Nombre de la Organización]**, usamos las siguientes herramientas y tecnol
 
 ## 📜 Licencia
 
-Los proyectos en esta organización están bajo la licencia **[nombre de la licencia]**, a menos que se indique lo contrario en repositorios específicos.
+Los proyectos en esta organización están bajo la licencia **[1.0.114]**, a menos que se indique lo contrario en repositorios específicos.
 
 ---
 
@@ -50,7 +54,7 @@ Los proyectos en esta organización están bajo la licencia **[nombre de la lice
 
 Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto con los administradores de la organización:
 
-- **Correo electrónico**: contacto@organizacion.com
+- **Correo electrónico**: erickdev.hc@emeal.organizacion.com
 - **Slack/Teams/Discord**: [enlace de comunicación de equipo]
 
 ---
