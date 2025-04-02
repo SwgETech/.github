@@ -1,4 +1,4 @@
-# 🏢 Bienvenido a la Organización [SwgETech]
+# 🏢 Bienvenido a la Organización SwgETech
 
 ¡Hola! Bienvenidos a la organización de **SwgETech** en GitHub. Aquí colaboramos en una variedad de proyectos y trabajamos para crear soluciones innovadoras. Este documento proporciona una guía rápida sobre cómo interactuar con los proyectos y colaborar dentro de nuestra organización.
 
@@ -24,15 +24,15 @@ Nos encantaría que contribuiras a nuestros proyectos. Para mantener la calidad 
 
 ## 🛠 Herramientas y Tecnologías Comunes
 
-En **[SwgETech]**, usamos las siguientes herramientas y tecnologías en muchos de nuestros proyectos:
+En **SwgETech**, usamos las siguientes herramientas y tecnologías en muchos de nuestros proyectos:
 
-- **[Spring]**: Descripción
-- **[Angular]**: Descripción
-- **[AWS]**: Descripción
-- **[SQL]**: Descripción
-- **[Docker]**: Descripción
-- **[SonarQube]**: Descripción
-- **[Phyton]**: Descripción
+- **Spring**: Descripción
+- **Angular**: Descripción
+- **AWS**: Descripción
+- **SQL**: Descripción
+- **Docker**: Descripción
+- **SonarQube**: Descripción
+- **Phyton**: Descripción
 
 ---
 
